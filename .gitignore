@@ -1,0 +1,13 @@
+# macOS - folders custom attributes: https://en.wikipedia.org/wiki/.DS_Store
+**/.DS_Store
+
+# macOS - folder icons
+**/Icon
+**/Icon_
+**/Icon?
+
+# Ableton - analysis files: https://www.ableton.com/en/manual/managing-files-and-sets/#analysis-files-asd
+**/*.asd
+
+# Ableton - backup project files
+Backup/**/*.als
