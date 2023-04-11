@@ -2,7 +2,7 @@
 
 **Git** ❤️ **Ableton**
 
-A template repository that enables the use of Git versioning for Ableton projects.
+A simple template repository that enables the use of Git versioning for Ableton projects.
 
 ## How to use
 
