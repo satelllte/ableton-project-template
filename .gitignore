@@ -7,7 +7,9 @@
 **/Icon?
 
 # Ableton - analysis files: https://www.ableton.com/en/manual/managing-files-and-sets/#analysis-files-asd
+# (no need to commit them because Ableton can re-create them anytime if needed)
 **/*.asd
 
 # Ableton - backup project files
+# (no need to commit them since Git versioning is here, so just a single root .als project file is enough)
 Backup/**/*.als
