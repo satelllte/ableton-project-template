@@ -1,3 +1,10 @@
-# Ableton project template
+# Ableton Project Template
 
-The template repository which allows using Git versioning for Ableton project.
+**Git** ❤️ **Ableton**
+
+A template repository that enables the use of Git versioning for Ableton projects.
+
+## How to use
+
+1. Create new repository based on this template
+2. Put Ableton project files here & enjoy Git versioning
